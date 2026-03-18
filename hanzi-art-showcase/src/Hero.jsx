@@ -13,7 +13,7 @@ function Hero() {
         <div className="w-3xl rounded-lg overflow-hidden flex-1 flex flex-col">
           <div className="w-3xl rounded-lg overflow-hidden">
             <img
-              src="https://cdn.discordapp.com/attachments/812637060577755136/1229895595632890096/colorized_render_16px_-2gap_boostx1.13.jpg?ex=66315888&is=661ee388&hm=0b2ed6d4abc4e383b245552a170ad66a4ef95e7c39a1b6fb0deeabd29ecc37b2&"
+              src="/resources/系館正門.jpg"
               className="shadow-2xl scale-[1] object-cover hover:scale-[15] duration-1000"
             />
           </div>

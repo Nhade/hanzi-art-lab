@@ -4,7 +4,7 @@ function BgSectionContent() {
       className="hero min-h-screen"
       style={{
         backgroundImage:
-          "url(https://cdn.discordapp.com/attachments/812637060577755136/1230147918842036274/Screenshot_2024-04-17_212824.png?ex=66324386&is=661fce86&hm=854270b7be796aadeec6dcd7b5be9192c6a528b2c4d3e3cabfc023dda1e5e1b5&)",
+          "url(/resources/陽台.jpg)",
       }}
     >
       <div className="hero-overlay bg-opacity-60"></div>
