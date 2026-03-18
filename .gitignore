@@ -1,0 +1,16 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# hanzi_art generated items
+hanzi_art/img.jpg
+hanzi_art/downscaled.jpg
+hanzi_art/canvas.png
+hanzi_art/small_canvas.png
+hanzi_art/result.txt
+hanzi_art/result_json.txt
+
+# Fonts (due to licensing)
+*.ttf
